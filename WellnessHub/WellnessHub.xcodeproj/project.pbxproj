@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		CC3D8A792ED7C1A400E6BC0A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CC3D8A772ED7C1A100E6BC0A /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		CC3D8A4E2ED7C13A00E6BC0A /* WellnessHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WellnessHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC3D8A772ED7C1A100E6BC0A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +39,7 @@
 			children = (
 				CC3D8A502ED7C13A00E6BC0A /* WellnessHub */,
 				CC3D8A4F2ED7C13A00E6BC0A /* Products */,
+				CC3D8A772ED7C1A100E6BC0A /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC3D8A792ED7C1A400E6BC0A /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
