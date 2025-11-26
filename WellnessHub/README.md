@@ -62,17 +62,17 @@ WellnessHub/<br>
 <div style="display:flex; justify-content:space-around; flex-wrap:wrap;">
 
 <div style="text-align:center; margin:10px;">
-<img src="screenshots/home.png" alt="Home Tab" width="200"/><br>
+<img src="WellnessHub/screenshots/home.png" alt="Home Tab" width="200"/><br>
 <b>Home Tab</b>
 </div>
 
 <div style="text-align:center; margin:10px;">
-<img src="screenshots/tracker.png" alt="Tracker Tab" width="200"/><br>
+<img src="WellnessHub/screenshots/tracker.png" alt="Tracker Tab" width="200"/><br>
 <b>Tracker Tab</b>
 </div>
 
 <div style="text-align:center; margin:10px;">
-<img src="screenshots/profile.png" alt="Profile Tab" width="200"/><br>
+<img src="WellnessHub/screenshots/profile.png" alt="Profile Tab" width="200"/><br>
 <b>Profile Tab</b>
 </div>
 
